@@ -40,15 +40,16 @@ No technical knowledge is required to use the application.
 🛠 Tech Stack
 
 Frontend
-React
-TypeScript
-Tailwind CSS
+* React
+* TypeScript
+* Tailwind CSS
+
 Backend
-Motoko
+* Motoko
 
 Charts
-Recharts
-Platform
+* Recharts
+* Platform
 
 Built using Caffeine AI
 Deployed on Internet Computer
